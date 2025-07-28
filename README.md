@@ -1,3 +1,5 @@
+[![Fork](https://img.shields.io/github/forks/kasmbafumoja/TERMUX-MD?label=Fork&style=for-the-badge&logo=git)](https://github.com/kasmbafumoja/TERMUX-MD/fork)
+
 <h2 align="center" style="color: #FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">🔰 BIENVENUE SUR TERMUX-MD 🔰</h2>
 <h3 align="center" style="color: #1BAFBA; font-weight: bold;">Bot WhatsApp puissant de la République Démocratique du Congo 🇨🇩</h3>
 
